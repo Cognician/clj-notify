@@ -1,0 +1,9 @@
+{:phones {:John "+7999875EXAMPLE"
+          :Jack "+3456789EXAMPLE"}
+         
+        
+
+ :twilio {:url-base "https://api.twilio.com/2010-04-01"
+          :sid "ACb6abbccXXXXXXXXXXXXXXXXXXXEXAMPLE"
+          :token "8b3760fYYYYYYYYYYYYYYYYYYYEXAMPLE"
+          :from "+1299999EXAMPLE"}}
