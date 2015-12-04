@@ -16,6 +16,8 @@ resources/config.edn.sample w/o sample in name
 
 Edit setup.sh (change AccoutID)
 
+Connect your SNS topic to created lambda function
+
 
 ## License
 
